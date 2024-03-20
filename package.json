@@ -1,0 +1,31 @@
+{
+  "name": "atomstaker-notif",
+  "version": "1.0.0",
+  "description": "Get notified about AtomStaker activities with a comprehensive notification tool.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/indieboogie/atomstaker-notif"
+  },
+  "author": "indieboogie",
+  "license": "MIT",
+  "dependencies": {
+    "atomstaker-notif": "1.0.0",
+    "atomstaker-autojob": "1.0.0",
+    "sinon": "1.0.0",
+    "bluebird": "1.0.0",
+    "validator": "1.0.0",
+    "chalk": "1.0.0",
+    "jquery": "1.0.0",
+    "fs-extra": "1.0.0",
+    "moment": "1.0.0",
+    "commander": "1.0.0",
+    "helmet": "1.0.0",
+    "mongoose": "1.0.0",
+    "supertest": "1.0.0",
+    "react": "1.0.0"
+  }
+}
